@@ -8,7 +8,7 @@ In Love with the Art of Coding.!!
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [hassanhabibtahir@gmail.com](mailto:hassanhabibtahir@gmail.com)
-* 🧠  I'm learning GenAI,Web3,Python,Flutter,Js,Devops,AWS
+* 🧠  I'm learning GenAI,Web3,Python,Js,Devops,AWS
 * 🤝  I'm open to collaborating on Flutter, Python, and TypeScript projects. Enthusiast and ready for collaborative ventures!
 * ⚡  I have lovebirds as pets
 ### Socials
